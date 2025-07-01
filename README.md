@@ -14,7 +14,6 @@ Working in a team of three students, we designed and implemented a comprehensive
 ## 🛠️ Tools & Technologies
 
 - **MySQL**: For database creation, management, and querying
-- **Lucidchart**: For creating the ERD (or other diagramming tool if different)
 - **SQL**: For data manipulation and analysis
 
 ## 🧩 Features
@@ -37,4 +36,7 @@ Working in a team of three students, we designed and implemented a comprehensive
 - Enhanced skills in **data modeling, data normalization, and analytical querying**
 
 ## 📁 Repository Structure
-- 
+- U.S. Natural Disasters Database Data.zip
+- U.S. Natural Disasters Database ER diagram.png
+- U.S. Natural Disasters Database Scripts.pdf
+- U.S. Natural Disasters Database.pdf
